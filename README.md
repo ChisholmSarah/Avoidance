@@ -11,10 +11,10 @@ To run this test use AvoidanceAssociationFun(). An example of how to run the fun
 
 ## Input
 
-### Id1
+#### Id1
 Name of one of the individuals in single quotation marks (for output naming purposes). For example 'John'.
 
-### Id2
+#### Id2
 Name of the other individual (for output naming purposes).
 
 ### Data1
